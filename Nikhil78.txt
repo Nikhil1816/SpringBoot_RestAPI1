@@ -1,0 +1,3 @@
+For get user id, status is 500.
+For update, status is 500.
+For Delete, status is 405.
